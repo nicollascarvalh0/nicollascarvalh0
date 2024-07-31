@@ -24,7 +24,7 @@
   
 ## 🎸 Redes Sociais
 <p align="left">
-  <a href="mailto:nicollaascarvalho@gmail.com@gmail.com" title="Gmail">
+  <a href="mailto:nicollaascarvalho@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
    
 
