@@ -3,7 +3,7 @@
 - 煤 apaixonado em poesia, fotografia de natureza e gatos.
  - 𒉭 confie no processo.
 
-<img src="https://media.tenor.com/nsGNQy4ZMjEAAAAe/gato-guitarra.png">
+<img src="https://i.pinimg.com/736x/7d/9d/b7/7d9db79941a50b256a73322e713aefb1.jpg">
 
 
 
