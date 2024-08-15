@@ -1,8 +1,7 @@
 - 𖣂 oi, eu sou Nícollas Carvalho do 2°F :3
-- ༗ sou estudante do colégio SESI Paulista.
-- 煤 apaixonado em poesia, fotografia de natureza e gatos.
- - 𒉭 apenas confie no processo.
-
+- 𖤐 sou estudante do colégio SESI Paulista.
+- ♱ apaixonado em poesia, fotografia de natureza e gatos.
+- 𒉭 𝖆𝖕𝖊𝖓𝖆𝖘 𝖈𝖔𝖓𝖋𝖎𝖊 𝖓𝖔 𝖕𝖗𝖔𝖈𝖊𝖘𝖘𝖔.
 <img src="https://i.pinimg.com/736x/7d/9d/b7/7d9db79941a50b256a73322e713aefb1.jpg">
 
 
