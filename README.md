@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bc407b&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Nícollas+Carvalho;++++:%29)](https://git.io/typing-svg)
-<img src="https://i.pinimg.com/originals/59/1d/b2/591db2e0bb7cbff19cba800da63503c6.gif">
+
+- Estudante do SESI PAULISTA, 2°F
+- Apaixonado em poesia, gatinhos & rock
+<img src="https://i.pinimg.com/564x/21/0e/62/210e626e3bfd217caeb9b811b0e6c339.jpg">
 
 
 
