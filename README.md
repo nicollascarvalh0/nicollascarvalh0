@@ -1,7 +1,10 @@
-- 𖣂 Oi, eu sou Nícollas Carvalho do 2°F :3
+ # Oi, eu sou Nícollas Carvalho do 2°F :3
 - 𖤐 Sou estudante do colégio SESI Paulista.
 - ♱ Apaixonado em poesia, fotografia de natureza e gatos.
 - 𒉭 𝖆𝖕𝖊𝖓𝖆𝖘 𝖈𝖔𝖓𝖋𝖎𝖊 𝖓𝖔 𝖕𝖗𝖔𝖈𝖊𝖘𝖘𝖔.
+ <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
+
 <img src="https://i.pinimg.com/736x/7d/9d/b7/7d9db79941a50b256a73322e713aefb1.jpg">
 
 
