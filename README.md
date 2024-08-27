@@ -1,7 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bc407b&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Nícollas+Carvalho;++
-(https://git.io/typing-svg)
-
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fguts-berserk-gif-guts-berserk-manga-discover-share-gifs--832040099915362959%2F&psig=AOvVaw1eg0tggxpMU4nfVeWTrgYH&ust=1724888648498000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJi7mIytlogDFQAAAAAdAAAAABAf">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bc407b&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Nícollas+Carvalho;++++:%29)](https://git.io/typing-svg)
+<img src="https://i.pinimg.com/originals/59/1d/b2/591db2e0bb7cbff19cba800da63503c6.gif">
 
 
 
