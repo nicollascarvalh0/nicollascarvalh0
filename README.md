@@ -1,7 +1,5 @@
- # Oi, eu sou Nícollas Carvalho do 2°F :3
-- 𖤐 Sou estudante do colégio SESI Paulista.
-- ♱ Apaixonado em poesia, fotografia de natureza e gatos.
-- 𒉭 𝖆𝖕𝖊𝖓𝖆𝖘 𝖈𝖔𝖓𝖋𝖎𝖊 𝖓𝖔 𝖕𝖗𝖔𝖈𝖊𝖘𝖘𝖔.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bc407b&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Nícollas+Carvalho;++:)
++:%29)](https://git.io/typing-svg)
 
 <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fguts-berserk-gif-guts-berserk-manga-discover-share-gifs--832040099915362959%2F&psig=AOvVaw1eg0tggxpMU4nfVeWTrgYH&ust=1724888648498000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJi7mIytlogDFQAAAAAdAAAAABAf">
 
