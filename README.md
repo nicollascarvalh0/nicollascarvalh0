@@ -2,11 +2,8 @@
 - 𖤐 Sou estudante do colégio SESI Paulista.
 - ♱ Apaixonado em poesia, fotografia de natureza e gatos.
 - 𒉭 𝖆𝖕𝖊𝖓𝖆𝖘 𝖈𝖔𝖓𝖋𝖎𝖊 𝖓𝖔 𝖕𝖗𝖔𝖈𝖊𝖘𝖘𝖔.
- <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-
-<img src="https://i.pinimg.com/736x/7d/9d/b7/7d9db79941a50b256a73322e713aefb1.jpg">
-
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fguts-berserk-gif-guts-berserk-manga-discover-share-gifs--832040099915362959%2F&psig=AOvVaw1eg0tggxpMU4nfVeWTrgYH&ust=1724888648498000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJi7mIytlogDFQAAAAAdAAAAABAf">
 
 
 
