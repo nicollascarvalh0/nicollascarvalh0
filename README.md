@@ -1,10 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bc407b&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Nícollas+Carvalho;++++:%29)](https://git.io/typing-svg)
----------------------------------------------------------------------------------
-- Estudante do SESI PAULISTA, 2°F
-- Apaixonado em poesia, gatinhos & rock
-<img src="https://i.pinimg.com/564x/21/0e/62/210e626e3bfd217caeb9b811b0e6c339.jpg">
-
-
+## Olá, meu nome é Nícollas Carvalho ;)
+- Sou estudante do SESI PAULISTA,
+- cursando Desenvolvimento de Sistemas (3/3) - 3°F
+- Sou apaixonado em poesia, academia, gatinhos, basquete & rock
 
 ## 🌀 Tecnologias
 <div style="display: inline_block"><br>
@@ -23,6 +20,8 @@
 <p align="left">
   <a href="mailto:nicollaascarvalho@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+
+  Instagram: @_nicollascarv
    
 
 <!---
