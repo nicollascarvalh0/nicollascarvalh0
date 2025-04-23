@@ -1,6 +1,7 @@
 ## Olá, meu nome é Nícollas Carvalho ;)
 - Sou estudante do SESI PAULISTA,
-- cursando Desenvolvimento de Sistemas (3/3) - 3°F
+- Pretendo me formar em Administração
+- Cursando Desenvolvimento de Sistemas (3/3) - 3°F
 - Sou apaixonado em poesia, academia, gatinhos, basquete & rock
 
 ## 🌀 Tecnologias
