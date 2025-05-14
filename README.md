@@ -1,4 +1,4 @@
-## Olá, meu nome é Nícollas Carvalho ;)
+## Oi, meu nome é Nícollas Carvalho ;)
 - Sou estudante do SESI PAULISTA
 - Cursando Desenvolvimento de Sistemas (3/3) - 3°F
 - Sou apaixonado em poesia, academia, gatinhos, basquete & rock
