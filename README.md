@@ -30,5 +30,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=shadowrnicz&show_icons=true&theme=dracula)
+![nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=nicollascarvalh0&show_icons=true&theme=dracula)
 
