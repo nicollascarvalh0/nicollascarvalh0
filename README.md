@@ -16,15 +16,13 @@
 
 
   
-## 🎸 Redes Sociais
+## 🎸 Onde me encontrar:
 <p align="left">
   <a href="mailto:nicollaascarvalho@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/#inbox" alt="Gmail"/></a>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpixabay.com%2Fpt%2Fvectors%2Finstagram-%25C3%25ADcone-do-instagram-6338393%2F&psig=AOvVaw397dFW24VQi7R8-I_YpTN6&ust=1747431405354000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCICH97W3po0DFQAAAAAdAAAAABAE<!---" alt="Instagram"/></a>
 
-  Instagram: @_nicollascarv
-   
 
-<!---
 nicaodormindo/nicaodormindo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
