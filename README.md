@@ -1,8 +1,8 @@
 ## Oi, meu nome é Nícollas Carvalho ;)
-- Sou estudante do SESI PAULISTA
+- Estudante do SESI PAULISTA, Futuro Analista de Sistemas e Computação
 - Cursando Desenvolvimento de Sistemas (3/3) - 3°F
-- Sou apaixonado em poesia, academia, gatinhos, basquete & rock
-
+- Aprendendo a me desenvolver e estudando mais minha área!
+  
 ## 🌀 Tecnologias
 <div style="display: inline_block"><br>
   <img align="center" alt="Nick-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
