@@ -1,5 +1,5 @@
 ## Oi, meu nome é Nícollas Carvalho ;)
-- Estudante do SESI PAULISTA, Futuro Analista de Sistemas e Computação
+- Estudante do SESI PAULISTA, Futuro Designer Gráfico
 - Cursando Desenvolvimento de Sistemas (3/3) - 3°F
 - Aprendendo a me desenvolver e estudando mais minha área!
   
