@@ -97,12 +97,7 @@ Java-based tools and infrastructure for scalable, production-ready systems.
 
 
 
-  
-## Top most used languages 👾
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nicollascarvalh0&show_icons=true&theme=dracula)
 
-
-  
 ## 👨🏻‍💻 Where to find me?:
 <p align="left">
   <a href="mailto:nicollaascarvalho@gmail.com" title="Gmail">
