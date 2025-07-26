@@ -15,7 +15,7 @@
 
 ## About me 👀
 
-I'm a 18 y/o developer from Pernambuco 🇵🇹 with a strong passion for AI, web development, and creative problem-solving 🧠. 
+I'm a 18 y/o programmer and developer, im from Pernambuco and with a strong passion for AI, web development, and creative problem-solving 🧠. 
 
 ## Languages and Tools 🛠️
 
@@ -98,12 +98,12 @@ Java-based tools and infrastructure for scalable, production-ready systems.
 
 
   
-## Top linguagens mais utilizadas 👾
+## Top most used languages 👾
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=nicollascarvalh0&show_icons=true&theme=dracula)
 
 
   
-## 👨🏻‍💻 Onde me encontrar:
+## 👨🏻‍💻 Where to find me?:
 <p align="left">
   <a href="mailto:nicollaascarvalho@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/0/#inbox" alt="Gmail"/></a>
