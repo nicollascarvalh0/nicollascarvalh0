@@ -15,7 +15,7 @@
 
 ## About me 👀
 
-I'm a 18 y/o programmer and developer, im from Pernambuco and with a strong passion for AI, web development, and creative problem-solving 🧠. 
+I'm 18 years old, I'm a programmer and developer, I'm from Pernambuco. I'm passionate about AI, web development and games, I always look for creative solutions to problems 🧠.
 
 ## Languages and Tools 🛠️
 
