@@ -1,8 +1,8 @@
 <h3 align="center"> Hey there, 👋! I'm Nícollas Carvalho<h3>
 
 <p align="center">
-  🔗 Acesse o meu site aqui:  
-👉 [Como é ser um programador](https://sites.google.com/view/comoeserumprogramador/inicio)
+  🔗 Acesse o meu site abaixo:  
+  [Como é ser um programador](https://sites.google.com/view/comoeserumprogramador/inicio)
 
   <a href="https://www.linkedin.com/in/n%C3%ADcollas-carvalho-a36057366/">LinkedIn</a> •
   <a href="https://discord.com/channels/@me">Discord</a>
