@@ -70,9 +70,8 @@ Java-based tools and infrastructure for scalable, production-ready systems.
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
- />
   <img width="12" />
- />
+ 
 </div>
 
 ---
