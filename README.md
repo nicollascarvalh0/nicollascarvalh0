@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/f9/57/6f/f9576fca9fc8ef79976a1d6327bbe9ae.gif"> 
+  <img src="https://pin.it/2GZoHUjqb"> 
 
 
 ## About me 👀
