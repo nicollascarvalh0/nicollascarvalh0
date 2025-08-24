@@ -8,7 +8,7 @@
 
 
 <p align="center">
-  img src="https://assets.pinterest.com/ext/embed.html?id=129548926779410251" height="438" width="600" frameborder="0" scrolling="no"> 
+  img src="https://assets.pinterest.com/ext/embed.html?id=129548926779410251"
 
 
 ## About me 👀
