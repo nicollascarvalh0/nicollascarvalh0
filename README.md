@@ -13,7 +13,7 @@
 
 ## About me 👀
 
-I'm 18 years old,  I'm from Pernambuco. I'm fallin love musics and games, I always look for creative solutions to problems 🧠.
+I'm 18 years old,  I'm from Pernambuco. I'm fallin love musics and games ;)
 
 
 <div align="left">
