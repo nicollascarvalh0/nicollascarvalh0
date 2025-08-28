@@ -5,9 +5,8 @@
  
 </p>
 
-<!-- HERO GIF -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/48/7G/8M/487G8MQcN.gif" alt="Meu GIF" width="840" />
+  <img src="https://pin.it/6Km3eTxBK" width="840" />
 </p>
 
 ---
