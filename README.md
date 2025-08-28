@@ -12,13 +12,6 @@
 
 ---
 
-<p align="center">
-  <!-- Ícone Spotify linkando para sua conta -->
-  <a href="https://open.spotify.com/user/9of7z53xqr6yxjt5rzsf0qjbc?si=dcbac28da27e4a8f" target="_blank">
-    
-   <p align="center"> <img src="https://cdn-icons-png.flaticon.com/512/2111/2111624.png" width="40px" alt="Spotify"/>
-  </a>
-
 --
 ## About me 
 I'm 18 years old,  I'm from Pernambuco. I'm fallin love musics and games ;)
