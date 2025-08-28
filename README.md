@@ -2,13 +2,6 @@
 
 <p align="center"> <a href="https://www.linkedin.com/in/n%C3%ADcollas-carvalho-a36057366/">LinkedIn</a> |
  <a href="https://preview.canva.site/1e618f56-7205-4756-bde2-0191aa23ef11/portfolionicollascarvalho.com/mysite">Portfólio</a>
- 
-
-<!-- HERO GIF -->
-<p align="center">
-<img src=width="398" height="498" alt="image" src="https://github.com/user-attachments/assets/c9ca53be-13d2-4675-84d2-f397fd5e788c"/>
-</p>
-
 ---
 
 --
