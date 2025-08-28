@@ -1,7 +1,7 @@
 <h3 align="center"> Hey there, 👋! I'm Nícollas Carvalho<h3>
 
 <p align="center"> <a href="https://www.linkedin.com/in/n%C3%ADcollas-carvalho-a36057366/">LinkedIn</a> |
- <a href="https://preview.canva.site/1e618f56-7205-4756-bde2-0191aa23ef11/portfolionicollascarvalho.com/mysite">Portfólio</a>
+ <a href="https://preview.canva.site/e60f864a-6483-40a6-9aa1-0f150989803d/portfolionicollascarvalho.com/mysitebr">Portfólio</a>
 
 ## About me 
 I'm 18 years old,  I'm from Pernambuco. I'm fallin love musics and games ;)
