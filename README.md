@@ -3,10 +3,10 @@
 <p align="center"> <a href="https://www.linkedin.com/in/n%C3%ADcollas-carvalho-a36057366/">LinkedIn</a> |
  <a href="https://preview.canva.site/1e618f56-7205-4756-bde2-0191aa23ef11/portfolionicollascarvalho.com/mysite">Portfólio</a>
  
--- 
 
+<!-- HERO GIF -->
 <p align="center">
-<img width="637" height="358" alt="image" src="https://github.com/user-attachments/assets/8cd8878f-7b82-4d1e-aacb-50a329b521eb" />
+<img width="840" height="358" alt="MEU GIF" src="https://github.com/user-attachments/assets/8cd8878f-7b82-4d1e-aacb-50a329b521eb" />
 
 </p>
 
