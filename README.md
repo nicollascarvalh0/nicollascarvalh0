@@ -6,8 +6,7 @@
 
 <!-- HERO GIF -->
 <p align="center">
-<img width="398" height="498" alt="image" src="https://github.com/user-attachments/assets/c9ca53be-13d2-4675-84d2-f397fd5e788c" />
- />
+<img width="398" height="498" alt="image" src="https://github.com/user-attachments/assets/c9ca53be-13d2-4675-84d2-f397fd5e788c"/>
 </p>
 
 ---
