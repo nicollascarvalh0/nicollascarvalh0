@@ -5,16 +5,67 @@
  
 </p>
 
+<!-- HERO GIF -->
+<p align="center">
+  <img src="https://i.pinimg.com/originals/48/7G/8M/487G8MQcN.gif" alt="Meu GIF" width="840" />
+</p>
 
+---
+
+<h2 align="center">🎵</h2>
 
 <p align="center">
-  img src="https://assets.pinterest.com/ext/embed.html?id=129548926779410251"
+  <!-- Ícone Spotify linkando para sua conta -->
+  <a href="https://open.spotify.com/user/9of7z53xqr6yxjt5rzsf0qjbc?si=dcbac28da27e4a8f" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111624.png" width="40px" alt="Spotify"/>
+  </a>
+</p>
 
+<details>
+  <summary><b>Ver Player (5 músicas)</b></summary>
 
-## About me 👀
+  <ol>
+    <li>
+      <p><b>Faixa 01 — Juice Wrld feat Lil Uzi Vert - Wasted</b></p>
+      <audio controls src="https://raw.githubusercontent.com/nicollascarvalh0/portfolio-musicas/main/assets/musicas/faixa-01.mp3"></audio>
+      <p><a href="https://youtu.be/1-ekpg6P-Cs?si=JX1BxI37rv3dZ3wG" target="_blank">Ouvir completo no YouTube</a></p>
+    </li>
 
+    <li>
+      <p><b>Faixa 02 — Lil Uzi Vert - xo tour llif3</b></p>
+      <audio controls src="https://raw.githubusercontent.com/nicollascarvalh0/portfolio-musicas/main/assets/musicas/faixa-02.mp3"></audio>
+      <p><a href="https://youtu.be/OED7_Oha0EQ?si=T_4S-3lA-ocI6nD-" target="_blank">Ouvir completo no YouTube</a></p>
+    </li>
+
+    <li>
+      <p><b>Faixa 03 — Playboi Carti - 24 Songs</b></p>
+      <audio controls src="https://raw.githubusercontent.com/nicollascarvalh0/portfolio-musicas/main/assets/musicas/faixa-03.mp3"></audio>
+      <p><a href="https://youtu.be/gGM57qdQGT4?si=kp8E-JNdLf7AYMIJ" target="_blank">Ouvir completo no YouTube</a></p>
+    </li>
+
+    <li>
+      <p><b>Faixa 04 — Drake - Own It</b></p>
+      <audio controls src="https://raw.githubusercontent.com/nicollascarvalh0/portfolio-musicas/main/assets/musicas/faixa-04.mp3"></audio>
+      <p><a href="https://youtu.be/KDnqwrzhTe8?si=o_jVzcIlv6tyCy9_" target="_blank">Ouvir completo no YouTube</a></p>
+    </li>
+
+    <li>
+      <p><b>Faixa 05 — Playboi Carti - Bando</b></p>
+      <audio controls src="https://raw.githubusercontent.com/nicollascarvalh0/portfolio-musicas/main/assets/musicas/faixa-05.mp3"></audio>
+      <p><a href="https://youtu.be/cX24KlL8klY?si=lT4b5qMKHXn4JrhZ" target="_blank">Ouvir completo no YouTube</a></p>
+    </li>
+  </ol>
+
+</details>
+
+<p align="center">
+  <sub>feito por <b>Nicz</b> • 2025</sub>
+</p>
+
+--
+## About me 
 I'm 18 years old,  I'm from Pernambuco. I'm fallin love musics and games ;)
-
+--
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=nicollascarvalh0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false&order=1" alt="stats graph"  />
