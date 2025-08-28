@@ -6,7 +6,8 @@
 -- 
 
 <p align="center">
-  <img src="https://pin.it/6Km3eTxBK" width="840" />
+<img width="637" height="358" alt="image" src="https://github.com/user-attachments/assets/8cd8878f-7b82-4d1e-aacb-50a329b521eb" />
+
 </p>
 
 ---
