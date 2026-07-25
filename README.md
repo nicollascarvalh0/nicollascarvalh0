@@ -7,11 +7,6 @@
 I'm 19 years old,  I'm from Pernambuco. I'm fallin love musics and games ;)
 --
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nicollascarvalh0&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=nord&locale=en&hide_border=false&order=1" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicollascarvalh0&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=nord&hide_border=false&order=2" alt="languages graph"  />
-</div>
-
 <br>
 
 ## 👨🏻‍💻 Where to find me?:
