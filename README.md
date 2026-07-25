@@ -4,7 +4,7 @@
  <a href="https://preview.canva.site/e60f864a-6483-40a6-9aa1-0f150989803d/portfolionicollascarvalho.com/mysitebr">Portfólio</a>
 
 ## About me 
-I'm 18 years old,  I'm from Pernambuco. I'm fallin love musics and games ;)
+I'm 19 years old,  I'm from Pernambuco. I'm fallin love musics and games ;)
 --
 
 <div align="left">
