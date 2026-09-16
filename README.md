@@ -1,6 +1,9 @@
 <h3 align="center"> Hey there, 👋! I'm Nícollas Carvalho<h3>
 
-<img src="https://pin.it/RQiA7Hzpr" width="400" alt="Demonstração do projeto">
+<img src="https://i.pinimg.com/originals/ba/e3/0e/bae30e0c7acfec296e5a30d0a75af0f1.gif" width="400" alt="Demonstração do projeto">
+
+
+
 ## About me 
 I'm 19 years old,  I'm from Pernambuco. I'm fallin love musics and games ;)
 --
