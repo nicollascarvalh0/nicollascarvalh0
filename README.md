@@ -5,7 +5,7 @@
 
 
 ## About me 
-I'm 19 years old,  I'm from Pernambuco. I'm fallin love musics and games ;)
+I'm 19 years old, I'm from Pernambuco. I'm fallin love musics and games ;)
 --
 
 <br>
